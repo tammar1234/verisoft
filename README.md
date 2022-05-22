@@ -1,0 +1,2 @@
+# verisoft
+Automation exercise
