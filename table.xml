@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<table>
+<row>
+<Company>'Alfreds Futterkiste'
+</Company>
+<Contact>   'Maria Anders'  </Contact>
+<Country>'Germany'</Country>
+</row>
+<row>
+<Company>"Centro comercial Moctezuma"</Company>
+<Contact>"Francisco Chang"</Contact>
+<Country>"Mexico"</Country>
+</row>
+<row>
+<Company>"Ernst Handel"</Company>
+<Contact>"Roland Mendel"</Contact>
+<Country>"Austria"</Country>
+</row>
+<row>
+<Company>"Island Trading"</Company>
+<Contact>"Helen Bennett"</Contact>
+<Country>"UK"</Country>
+</row>
+<row>
+<Company>"Laughing Bacchus Winecellars"</Company>
+<Contact>"Yoshi Tannamuri"</Contact>
+<Country>"Canada"</Country>
+</row>
+<row>
+<Company>"Magazzini Alimentari Riuniti"</Company>
+<Contact>"Giovanni Rovelli"</Contact>
+<Country>"Italy"</Country>
+</row>
+</table>
